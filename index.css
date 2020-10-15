@@ -3,6 +3,11 @@ html {
     background-color: darkgray;
 }
 
+.container {
+    color: blue;
+    background-color: green;
+}
+
  
 h2 {
     color: red;
