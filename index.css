@@ -3,8 +3,9 @@ html {
     background-color: darkgray;
 }
 
-.containe {
+.container {
     color: blue;
+    background-color: green;
 }
 
  
