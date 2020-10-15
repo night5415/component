@@ -1,0 +1,11 @@
+{
+  "name": "web-component",
+  "version": "1.0.0",
+  "description": "just messing around",
+  "main": "tooltip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike",
+  "license": "ISC"
+}
